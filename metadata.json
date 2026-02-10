@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CodeInsight AI - Student Code Reviewer",
+  "description": "A comprehensive AI-powered code review platform designed for students. It analyzes code for bugs, suggests optimizations, calculates complexity, and provides an 'Explain Like I'm 12' mode for easier understanding.",
+  "requestFramePermissions": []
+}
